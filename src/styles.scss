@@ -1,0 +1,26 @@
+.MuiTypography-root {
+  font-size: 12px im !important;
+}
+
+::-webkit-datetime-edit {
+  padding: 4 em;
+}
+::-webkit-datetime-edit-fields-wrapper {
+  background: blue !important;
+}
+::-webkit-datetime-edit-text {
+  padding: 0 0.5em;
+}
+
+::-webkit-datetime-edit-month-field {
+  color: white;
+}
+::-webkit-datetime-edit-day-field {
+  color: red;
+}
+::-webkit-datetime-edit-year-field {
+  color: red;
+}
+::-webkit-calendar-picker-indicator {
+  background: gray;
+}
